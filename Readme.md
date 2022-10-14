@@ -1,6 +1,6 @@
 BGP Path Hijacking Attack Demo: 
 
-[https://github.com/mininet/mininet/wiki/BGP-Path-Hijacking-Attack-Demo](https://github.com/mininet/mininet/wiki/BGP-Path-Hijac)
+[https://github.com/mininet/mininet/wiki/BGP-Path-Hijacking-Attack-Demo](https://github.com/mininet/mininet/wiki/BGP-Path-Hijacking-Attack-Demo)
 
 -----
 
